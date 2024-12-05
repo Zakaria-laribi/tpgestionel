@@ -1,18 +1,18 @@
 h1{
     font-size: 50px;
     text-align: center;
-    color: blue;
+    color: rgb(255, 149, 0);
 }
 
 
 span{
     font-size: 20px;
-    color: red;
+    color: rgb(39, 169, 130);
  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 body{
 
-  background-color: bisque;
+  background-color: rgb(235, 255, 147);
 
 }
